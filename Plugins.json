@@ -1,0 +1,12 @@
+Json
+[
+ {
+  "id": "example",
+  "name": "Example Plugin",
+  "site": "https://example.com",
+  "lang": "English",
+  "version": "1.0.0",
+  "url": "https://raw.githubusercontent.com/Nataer/lnreader-plugins/main/example.js",
+  "iconUrl": "https://raw.githubusercontent.com/Nataer/lnreader-plugins/main/icon.png"
+ }
+]
